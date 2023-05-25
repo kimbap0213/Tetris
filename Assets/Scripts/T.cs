@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class T : Block
 {
-
     private void Awake()
     {
         existBlock = new int[4, 4]{ 
